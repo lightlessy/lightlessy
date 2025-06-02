@@ -1,18 +1,17 @@
-# Merhaba, ben Ahmet 👋
+# Hi there, it's Faruk 👋
 
-🎓 İTÜ Yönetim Mühendisliği öğrencisiyim.  
-📊 Veri bilimi, Python, SQL ve Power BI ile ilgileniyorum.  
-📈 Projelerimi [buraya](https://github.com/ahmet123?tab=repositories) ekliyorum.  
+🎓 Management Engineering | Istanbul Technical University.  
+📊 Data Science, Python, SQL and Power BI  
+📈 [My Projects](https://github.com/lightlessy?tab=repositories).  
 
-## 🛠️ Yetenekler
+## 🛠️ My Skills
 - Python, Pandas, Scikit-learn
 - SQL, Power BI
 - Git, GitHub, VS Code
 
-## 📂 Projeler
-- [Finansal Veri Analizi](https://github.com/ahmet123/finans-veri-analizi)
-- [COVID-19 Veri Görselleştirme](https://github.com/ahmet123/covid19-dataviz)
+## 📂 My Projects
+- [Heart-Disease Prediction With Machine Learning](https://www.kaggle.com/code/ahmetfarukengl/heartdisease)
 
-## 📫 İletişim
-- LinkedIn: [linkedin.com/in/ahmet123](https://linkedin.com/in/ahmet123)
-- E-posta: ahmet@example.com
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/ahmet123]([https://linkedin.com/in/ahmet123](https://www.linkedin.com/in/ahmet-faruk-%C5%9Feng%C3%BCl-4b25b820b/))
+- E-posta: Ahmetfaruk.sengul@gmail.com
