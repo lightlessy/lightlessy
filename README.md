@@ -1,16 +1,18 @@
-## Hi there 👋
+# Merhaba, ben Ahmet 👋
 
-<!--
-**lightlessy/lightlessy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 İTÜ Yönetim Mühendisliği öğrencisiyim.  
+📊 Veri bilimi, Python, SQL ve Power BI ile ilgileniyorum.  
+📈 Projelerimi [buraya](https://github.com/ahmet123?tab=repositories) ekliyorum.  
 
-Here are some ideas to get you started:
+## 🛠️ Yetenekler
+- Python, Pandas, Scikit-learn
+- SQL, Power BI
+- Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projeler
+- [Finansal Veri Analizi](https://github.com/ahmet123/finans-veri-analizi)
+- [COVID-19 Veri Görselleştirme](https://github.com/ahmet123/covid19-dataviz)
+
+## 📫 İletişim
+- LinkedIn: [linkedin.com/in/ahmet123](https://linkedin.com/in/ahmet123)
+- E-posta: ahmet@example.com
