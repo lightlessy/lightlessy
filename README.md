@@ -13,5 +13,5 @@
 - [Heart-Disease Prediction With Machine Learning](https://www.kaggle.com/code/ahmetfarukengl/heartdisease)
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/ahmet123]([https://linkedin.com/in/ahmet123](https://www.linkedin.com/in/ahmet-faruk-%C5%9Feng%C3%BCl-4b25b820b/))
+- LinkedIn: [linkedin.com/in/ahmet123]([https://www.linkedin.com/in/ahmet-faruk-%C5%9Feng%C3%BCl/](https://www.linkedin.com/in/ahmet-faruk-%C5%9Feng%C3%BCl/))
 - E-posta: Ahmetfaruk.sengul@gmail.com
